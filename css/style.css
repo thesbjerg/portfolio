@@ -1,0 +1,20 @@
+body {
+    background-color: #eee;
+}
+
+header {
+    background-color: #333;
+}
+
+header h1 {
+    color: #eee;
+}
+
+footer {
+    background-color: #111;
+}
+
+footer p {
+    color: #eee;
+    text-align: center;
+}
