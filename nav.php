@@ -17,14 +17,14 @@
                 <li class="active"><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
                 <li><a href="about.php">About</a></li>
             </ul>
-            <form class="navbar-form navbar-left" role="search">
+            <ul class="nav navbar-nav navbar-left">
+            </ul>
+            <form class="navbar-form navbar-right" role="search">
                 <div class="form-group">
                     <input type="text" class="form-control" placeholder="Search">
                 </div>
                 <button type="submit" class="btn btn-default">Search</button>
             </form>
-            <ul class="nav navbar-nav navbar-right">
-            </ul>
         </div>
         <!-- /.navbar-collapse -->
     </div>
